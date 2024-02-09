@@ -28,7 +28,7 @@ This BMI Calculator is a desktop application developed in Java, employing Swing 
 
 ## How to Use
 1. Start the application to open the GUI.
-2. Enter your height and weight using the preferred units (metric or imperial).
+2. Enter your height and weight using the metric units.
 3. The BMI value will automatically update as you type, reflecting your current inputs.
 4. Switch between unit systems at any time to see your BMI in different units.
 
